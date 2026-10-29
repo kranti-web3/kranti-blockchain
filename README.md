@@ -18,19 +18,40 @@ I am a passionate Blockchain Developer and Web3 Enthusiast. I love building dece
 
 
 <p align="center">
-<img src="[https://cdn.simpleicons.org/solidity](https://cdn.simpleicons.org/solidity)" alt="Solidity" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/javascript](https://cdn.simpleicons.org/javascript)" alt="JavaScript" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/typescript](https://cdn.simpleicons.org/typescript)" alt="TypeScript" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/hardhat](https://cdn.simpleicons.org/hardhat)" alt="Hardhat" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/truffle](https://cdn.simpleicons.org/truffle)" alt="Truffle" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/react](https://cdn.simpleicons.org/react)" alt="React" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/html5](https://cdn.simpleicons.org/html5)" alt="HTML5" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/css3](https://cdn.simpleicons.org/css3)" alt="CSS3" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/ethereum](https://cdn.simpleicons.org/ethereum)" alt="Ethereum" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/web3dotjs](https://cdn.simpleicons.org/web3dotjs)" alt="Web3.js" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/supabase](https://cdn.simpleicons.org/supabase)" alt="Supabase" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/nodedotjs](https://cdn.simpleicons.org/nodedotjs)" alt="Node.js" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/c](https://cdn.simpleicons.org/c)" alt="C" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/linux](https://cdn.simpleicons.org/linux)" alt="Linux" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/openai](https://cdn.simpleicons.org/openai)" alt="OpenAI" width="40" height="40"/>
+<a href="[https://soliditylang.org](https://soliditylang.org)">
+<img src="[https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)"/>
+</a>
+<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">
+<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)"/>
+</a>
+<a href="[https://www.typescriptlang.org](https://www.typescriptlang.org)">
+<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)"/>
+</a>
+<a href="[https://hardhat.org](https://hardhat.org)">
+<img src="[https://img.shields.io/badge/Hardhat-FFFF00?style=for-the-badge&logo=hardhat&logoColor=black](https://img.shields.io/badge/Hardhat-FFFF00?style=for-the-badge&logo=hardhat&logoColor=black)"/>
+</a>
+<a href="[https://trufflesuite.com](https://trufflesuite.com)">
+<img src="[https://img.shields.io/badge/Truffle-C02942?style=for-the-badge&logo=truffle&logoColor=white](https://img.shields.io/badge/Truffle-C02942?style=for-the-badge&logo=truffle&logoColor=white)"/>
+</a>
+<a href="[https://reactjs.org](https://reactjs.org)">
+<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)"/>
+</a>
+<a href="[https://www.w3.org/html/](https://www.w3.org/html/)">
+<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)"/>
+</a>
+<a href="[https://www.w3.org/Style/CSS/](https://www.w3.org/Style/CSS/)">
+<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)"/>
+</a>
+<a href="[https://docs.ethers.io/v5/](https://docs.ethers.io/v5/)">
+<img src="[https://img.shields.io/badge/Ethers.js-253343?style=for-the-badge&logo=ethers&logoColor=white](https://img.shields.io/badge/Ethers.js-253343?style=for-the-badge&logo=ethers&logoColor=white)"/>
+</a>
+<a href="[https://web3js.readthedocs.io/](https://web3js.readthedocs.io/)">
+<img src="[https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)"/>
+</a>
+<a href="[https://supabase.com](https://supabase.com)">
+<img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)"/>
+</a>
+<a href="[https://nodejs.org](https://nodejs.org)">
+<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)"/>
+</a>
 </p>
