@@ -19,7 +19,7 @@ I am a passionate Blockchain Developer and Web3 Enthusiast. I love building dece
 
 <p align="center">
 <a href="[https://soliditylang.org](https://soliditylang.org)">
-<img src="[https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)"/>
+<img src="[https://img.shields.io/badge/Solidity-343434?style=for-the-badge&logo=solidity&logoColor=white](https://img.shields.io/badge/Solidity-343434?style=for-the-badge&logo=solidity&logoColor=white)"/>
 </a>
 <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">
 <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)"/>
