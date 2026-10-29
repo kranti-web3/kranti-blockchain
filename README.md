@@ -26,8 +26,11 @@ I am a passionate Blockchain Developer and Web3 Enthusiast. I love building dece
 <img src="[https://cdn.simpleicons.org/react](https://cdn.simpleicons.org/react)" alt="React" width="40" height="40"/>
 <img src="[https://cdn.simpleicons.org/html5](https://cdn.simpleicons.org/html5)" alt="HTML5" width="40" height="40"/>
 <img src="[https://cdn.simpleicons.org/css3](https://cdn.simpleicons.org/css3)" alt="CSS3" width="40" height="40"/>
-<img src="[https://cdn.simpleicons.org/ethers](https://cdn.simpleicons.org/ethers)" alt="Ethers.js" width="40" height="40"/>
+<img src="[https://cdn.simpleicons.org/ethereum](https://cdn.simpleicons.org/ethereum)" alt="Ethereum" width="40" height="40"/>
 <img src="[https://cdn.simpleicons.org/web3dotjs](https://cdn.simpleicons.org/web3dotjs)" alt="Web3.js" width="40" height="40"/>
 <img src="[https://cdn.simpleicons.org/supabase](https://cdn.simpleicons.org/supabase)" alt="Supabase" width="40" height="40"/>
 <img src="[https://cdn.simpleicons.org/nodedotjs](https://cdn.simpleicons.org/nodedotjs)" alt="Node.js" width="40" height="40"/>
+<img src="[https://cdn.simpleicons.org/c](https://cdn.simpleicons.org/c)" alt="C" width="40" height="40"/>
+<img src="[https://cdn.simpleicons.org/linux](https://cdn.simpleicons.org/linux)" alt="Linux" width="40" height="40"/>
+<img src="[https://cdn.simpleicons.org/openai](https://cdn.simpleicons.org/openai)" alt="OpenAI" width="40" height="40"/>
 </p>
